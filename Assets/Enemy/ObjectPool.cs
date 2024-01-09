@@ -33,6 +33,7 @@ public class ObjectPool : MonoBehaviour
 
     void EnableObjectInPool()
     {
+        //backwards through a loop "for(int = pool.Length -1; i >= 0; i--)"
         for(int i = 0; i < pool.Length; i++)
         {
             if(pool[i].activeInHierarchy == false)
