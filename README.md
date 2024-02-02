@@ -28,3 +28,7 @@ In the current level, there will only ever by up to three active wagons at any m
   If you haven't got Git installed, still click the green "Code" drop down menu, but select "Download Zip" instead. Once downloaded, opening the Highwaymen executable will prompt you to extract the necessary files. Extract them all, and the game is ready.
 
   Enjoy!
+
+**Credits**
+
+- The basis of this project is taken from the Realm Rush project from the Complete C# Unity Game Developer 3D course by Ben Tristem, Rick Davidson, the GameDev.tv Team, and Gary Pettie. https://www.udemy.com/course/unitycourse2/
